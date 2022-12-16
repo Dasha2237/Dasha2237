@@ -17,7 +17,6 @@
 
 ### :woman_technologist: About Me :
 I'm currently pursuing Bachelor degree in informatics in Ruhr University Bochum 
-- 🌈 I'm experienced with python, java and c++; I know SQL, HTMl and Latex as well.
 - 🍪 I'm interested in trying myself in Back-end development.
 - 🌱 I’m currently learning Spring
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-dasha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dasha_mikhaylova)
