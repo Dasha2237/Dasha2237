@@ -8,17 +8,17 @@
   <a href="https://t.me/dasha_mikhaylova">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/zaets_dasha22">
+  <!--<a href="https://www.hackerrank.com/zaets_dasha22">
     <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
+  </a>-->
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
-I'm currently pursuing Bachelor degree in informatics in Ruhr University Bochum and working as a Backend Developer.
-- 🍪 I'm interested in Android and Game Dvelopment
-- 🌱 I’m currently learning SpringBoot for backend development
+I'm an informatics student at Ruhr University Bochum and work part time as a Backend Developer @ E.ON.
+- 🍪 I'm interested in Android Development and have created a couple of fit apps.
+- 🌱 I’m currently learning OCaml & trying myself in GameDev
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-dasha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dasha_mikhaylova)
 - ⚡ Fun fact: I moved to another country when I was 17
 
